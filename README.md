@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kuhaku074
+- 👋 Hi, I’m Kenny Tanaka
 - 👀 I’m interested in front-end, but I don't know whats I going to work?
 - 🌱 I’m currently learning python, C++
 - 💞️ I’m looking to collaborate on RIOT GAMES, NUBANK and other
